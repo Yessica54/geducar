@@ -9,7 +9,7 @@ Test Geducar para React.JS, se utilizaron los siguentes herramientas y/o libreri
 
 ## Demo
 
-Para desplegar el demo de esta aplicación se utilizo Github Pages, para visualizarlo vaya al siguiente link [https://yessica54.github.io/testGeducar/](https://yessica54.github.io/testGeducar/) 
+Para desplegar el demo de esta aplicación se utilizo Github Pages, para visualizarlo vaya al siguiente link [https://yessica54.github.io/geducar/](https://yessica54.github.io/geducar/) 
 
 
 ## Comenzando 🚀
@@ -22,4 +22,4 @@ Para la instalación de las librerias necesarias
 
 ### `npm start`
 
-Para iniciar la aplicacion, para visualizarla abra en su navegador [http://localhost:3000/testGeducar](http://localhost:3000/testGeducar) 
+Para iniciar la aplicacion, para visualizarla abra en su navegador [http://localhost:3000/geducar](http://localhost:3000/geducar) 
