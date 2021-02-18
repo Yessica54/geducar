@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/geducar/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/geducar/static/js/main.efd334da.chunk.js",
+    "main.js.map": "/geducar/static/js/main.efd334da.chunk.js.map",
+    "runtime-main.js": "/geducar/static/js/runtime-main.e6810390.js",
+    "runtime-main.js.map": "/geducar/static/js/runtime-main.e6810390.js.map",
+    "static/css/2.150d169a.chunk.css": "/geducar/static/css/2.150d169a.chunk.css",
+    "static/js/2.666a1cf0.chunk.js": "/geducar/static/js/2.666a1cf0.chunk.js",
+    "static/js/2.666a1cf0.chunk.js.map": "/geducar/static/js/2.666a1cf0.chunk.js.map",
+    "static/js/3.f3875acc.chunk.js": "/geducar/static/js/3.f3875acc.chunk.js",
+    "static/js/3.f3875acc.chunk.js.map": "/geducar/static/js/3.f3875acc.chunk.js.map",
+    "index.html": "/geducar/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/geducar/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/geducar/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.666a1cf0.chunk.js.LICENSE.txt": "/geducar/static/js/2.666a1cf0.chunk.js.LICENSE.txt",
+    "static/media/geducar.3cd67a75.png": "/geducar/static/media/geducar.3cd67a75.png",
+    "static/media/unnamed.9ad32374.png": "/geducar/static/media/unnamed.9ad32374.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6810390.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.666a1cf0.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.efd334da.chunk.js"
+  ]
+}
