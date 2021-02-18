@@ -9,16 +9,16 @@ Test Geducar para React.JS, se utilizaron los siguentes herramientas y/o libreri
 
 ## Demo
 
-Para desplegar el demo de esta aplicaciÃ³n se utilizo Github Pages, para visualizarlo vaya al siguiente link [https://yessica54.github.io/testGeducar/](https://yessica54.github.io/testGeducar/) 
+Para desplegar el demo de esta aplicación se utilizo Github Pages, para visualizarlo vaya al siguiente link [https://yessica54.github.io/testGeducar/](https://yessica54.github.io/testGeducar/) 
 
 
-## Comenzando ðŸš€
+## Comenzando ??
 
 En el directorio del proyecto correr los siguientes comandos:
 
 ### `npm install`
 
-Para la instalaciÃ³n de las librerias necesarias
+Para la instalación de las librerias necesarias
 
 ### `npm start`
 
